@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About Python for AI</title>
+  <style>
+    body {
+      max-width: 720px;
+      margin: 80px auto;
+      padding: 0 24px;
+      font-family: system-ui, sans-serif;
+      line-height: 1.8;
+      background: #f5f7fb;
+      color: #243047;
+    }
+    main {
+      padding: 32px;
+      background: white;
+      border-radius: 16px;
+    }
+    a { color: #2563eb; }
+  </style>
+</head>
+<body>
+  <main>
+    <p>Welcome here</p>
+    <h2>About this repository</h2>
+    <p>Will share my learnings and projects here</p>
+    <h2>My Projects</h2>
+    <p>NA</p>
+  </main>
+</body>
+</html>
